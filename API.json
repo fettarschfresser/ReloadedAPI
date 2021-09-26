@@ -1,0 +1,18 @@
+{
+    "News": {
+        "News": "[+]Fortnite = Gay",
+        "patchnotes": "[-]Fortnite Gay"
+    },
+    "Swapper": {
+        "Status": "Offline"
+    },
+    "Fortnite": {
+        "Cosmetics": [
+            {
+                "type": "Skin",
+                "name": "Renegade Raider",
+                "image": "https://fortnite-api.com/images/cosmetics/br/CID_028_Athena_Commando_F/icon.png"
+            }
+        ]
+    }
+}
